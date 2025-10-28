@@ -5,9 +5,7 @@ function square(number) {
 }
 
 function estimatedArrivalTime() {
-
-  var milesPerHour = 60; 
-
+  var milesPerHour = 50;
   return distanceInMiles / milesPerHour;
 }
 
